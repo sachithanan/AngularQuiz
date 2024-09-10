@@ -1,0 +1,27 @@
+<form (ngSubmit)="submitQuestion()">
+    <div class="form-group">
+      <label for="topic">Select Topic</label>
+      <select id="topic" [(ngModel)]="selectedTopicId" name="topicId" required>
+        <option *ngFor="let topic of topics" [value]="topic.id">{{ topic.topicName }}</option>
+      </select>
+    </div>
+  
+    <div class="form-group">
+      <label for="question">Enter Question</label>
+      <input type="text" id="question" [(ngModel)]="questionText" name="questionText" required>
+    </div>
+  
+    <div class="form-group options-group">
+      <label>Options</label>
+      <div *ngFor="let option of options; let i = index" class="option-item">
+        <input type="text" id="option-{{i}}" [(ngModel)]="option.text" name="optionText-{{i}}" placeholder="Option text" required>
+        <input type="checkbox" id="isCorrect-{{i}}" [(ngModel)]="option.isCorrect" name="isCorrect-{{i}}">
+        <label for="isCorrect-{{i}}">Correct</label>
+        <button type="button" (click)="removeOption(i)" class="remove-button" [disabled]="i === 0">Remove</button>
+      </div>
+      <button type="button" (click)="addOption()" class="btn btn-primary" [disabled]="!options.length || !options[options.length - 1].text">Add Option</button>
+    </div>
+  
+    <button type="submit" class="submit-button">Submit</button>
+  </form>
+  

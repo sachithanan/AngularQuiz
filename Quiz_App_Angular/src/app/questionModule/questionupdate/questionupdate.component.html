@@ -1,0 +1,39 @@
+<mat-dialog-content class="dialog-content">
+  <div class="container">
+    <div class="form-group">
+      <label for="topic">Select Topic</label>
+      <select id="topic" class="form-control" [(ngModel)]="selectedTopicId" (change)="onSelectTopic()">
+        <option *ngFor="let topic of topics" [value]="topic.id">{{ topic.topicName }}</option>
+      </select>
+    </div>
+   
+    <div class="form-group">
+      <label for="question">Select Question</label>
+      <select id="question" class="form-control" [(ngModel)]="selectedQuestion" *ngIf="questions && questions.length > 0" (change)="onSelectQuestion()">
+        <option *ngFor="let question of questions" [ngValue]="question">{{ question.questionText }}</option>
+      </select>
+      <div *ngIf="!questions || questions.length === 0" class="no-questions">No questions available.</div>
+    </div>
+
+    <div class="form-group" *ngIf="selectedQuestion">
+      <label for="editedQuestion">Edit Question</label>
+      <input type="text" id="editedQuestion" class="form-control" [(ngModel)]="selectedQuestion.questionText">
+    </div>
+    
+    <div class="form-group" *ngIf="options.length > 0">
+      <label>Edit Options</label>
+      <div *ngFor="let option of options; let i = index" class="option-item">
+        <input type="text" class="form-control" [(ngModel)]="option.option"placeholder="Option text" required>
+        <input type="checkbox" [(ngModel)]="option.isCorrect">
+        <label>Correct</label>
+        <button type="button" (click)="removeOption(i,option.id)" class="btn btn-danger mx-1" [disabled]="i === 0">Remove</button>
+      </div>
+      <button type="button" class="btn btn-primary mx-1" (click)="addOption()">Add Option</button>
+    </div>
+
+    <div class="form-group">
+      <button type="button" class="btn btn-primary" (click)="saveQuestion()">Save</button>
+      <button type="button" class="btn btn-danger mx-4" (click)="cancel()">Close</button>
+    </div>
+  </div>
+</mat-dialog-content>

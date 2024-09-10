@@ -1,0 +1,14 @@
+
+  <div class="col-md-12">
+    <div class="wrapper">
+      <table class="topics">
+        <tbody>
+          <div class="grid-container">
+            <div class="button-container" *ngFor="let topic of topics">
+              <button type="button" class="button" (click)="handleTopicClick(topic.id,topic.topicName)">{{ topic.topicName }}</button>
+            </div>
+          </div>
+        </tbody>
+      </table>
+    </div>
+  </div>

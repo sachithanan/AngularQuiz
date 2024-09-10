@@ -1,0 +1,32 @@
+<div class="container">
+  <form [formGroup]="scoreForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="date">Date:</label>
+      <input id="date" formControlName="date" type="date" class="form-control"/>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+
+  <div class="form-group" *ngIf="topicOptions.length > 0">
+    <label for="topic">Topic:</label>
+    <select id="topic" formControlName="topic" (change)="onTopicChange($event)" class="form-control">
+      <option *ngFor="let option of topicOptions" [value]="option.id">{{ option.name }}</option>
+    </select>
+  </div>
+</div>
+
+<div class="chart-container" *ngIf="barChartData.length > 0">
+  <ngx-charts-bar-vertical
+    [results]="barChartData"
+    [xAxis]="true"
+    [yAxis]="true"
+    [legend]="true"
+    [showXAxisLabel]="true"
+    [showYAxisLabel]="true"
+    [xAxisLabel]="'Attempt'"
+    [yAxisLabel]="'Marks'"
+    [yAxisTickFormatting]="yAxisTickFormatting"
+    class="bar-chart"
+  >
+  </ngx-charts-bar-vertical>
+</div>

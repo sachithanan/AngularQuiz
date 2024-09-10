@@ -1,0 +1,27 @@
+<div class="quiz-container">
+  <div class="quiz-content" *ngIf="!quizCompleted;">
+    <div class="name"><i class="fa-solid fa-book-open-reader"></i></div>
+    
+    <div class="time">
+      <p>Time Remaining: {{ minutes }}:{{ seconds | number: '2.0' }}</p>
+    </div>
+    <div *ngFor="let question of shuffledQuestions; let i = index" class="quiz-question">
+      <h3>{{ i + 1 }}. {{ question.questionText }}</h3>
+      <div *ngIf="question.options && question.options.length > 0" class="quiz-options">
+        <div *ngFor="let value of question.options" class="option">
+          <label>
+            <input type="radio"
+                   [name]="'question' + i"
+                   [value]="value.id"
+                   (change)="selectOption(i, value)"
+                   [checked]="selectedOptions[i]?.id === value.id">
+            {{ value.option }}
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="quiz-navigation">
+      <button (click)="submitQuiz()">Submit</button>
+    </div>
+  </div>
+</div>

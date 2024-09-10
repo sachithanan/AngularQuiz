@@ -1,0 +1,49 @@
+<div class="body">
+  <div class="signup-form">
+    <h2>Sign Up</h2>
+    <form [formGroup]="signupForm" (ngSubmit)="submit()">
+      <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" id="username" formControlName="userName" class="form-control" required>
+        <div *ngIf="signupForm.get('userName')?.invalid && (signupForm.get('userName')?.dirty || signupForm.get('userName')?.touched)">
+          <div *ngIf="signupForm.get('userName')?.errors?.['required']" class="alert alert-danger">
+            Username is required.
+          </div>
+          <div *ngIf="signupForm.get('userName')?.errors?.['minlength']" class="alert alert-danger">
+            minimum 3 characters.
+          </div>
+          <div *ngIf="signupForm.get('userName')?.errors?.['pattern']" class="alert alert-danger">
+            Username contain only letters and numbers.
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" id="password" formControlName="password" class="form-control" required>
+        <div *ngIf="signupForm.get('password')?.invalid && (signupForm.get('password')?.dirty || signupForm.get('password')?.touched)">
+          <div *ngIf="signupForm.get('password')?.errors?.['required']" class="alert alert-danger">
+            Password is required.
+          </div>  
+          <div *ngIf="signupForm.get('password')?.errors?.['pattern']" class="alert alert-danger">
+            Password must contain:
+            <div class="val">
+            <div class="password-requirements">
+              <span [class.text-success]="passwordHasUppercase" class="badge badge-danger">A</span>
+              <span [class.text-success]="passwordHasLowercase" class="badge badge-danger">a</span>
+              <span [class.text-success]="passwordHasNumber" class="badge badge-danger">1</span>
+              <span [class.text-success]="passwordHasSpecialChar" class="badge badge-danger">$</span>
+              <span [class.text-success]="passwordHasMinLength" class="badge badge-danger">8+</span>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <button type="submit" class="btn btn-primary" [disabled]="signupForm.invalid">Sign Up</button>
+      </div>
+      <div>Already have an account? <a routerLink="/login">Back to Login</a></div>
+    </form>
+  </div>
+</div>

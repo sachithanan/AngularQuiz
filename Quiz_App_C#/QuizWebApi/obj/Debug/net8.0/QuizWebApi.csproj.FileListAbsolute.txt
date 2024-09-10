@@ -1,0 +1,391 @@
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\appsettings.json
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\QuizWebApi.exe
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\QuizWebApi.deps.json
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\QuizWebApi.runtimeconfig.json
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\QuizWebApi.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\QuizWebApi.pdb
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\FluentAssertions.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\cloneZuci\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.AssemblyReference.cache
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfoInputs.cache
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfo.cs
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.CoreCompileInputs.cache
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.sourcelink.json
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.QuizWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.QuizWebApi.props
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuizWebApi.props
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuizWebApi.props
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\scopedcss\bundle\QuizWebApi.styles.css
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.Up2Date
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.dll
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\refint\QuizWebApi.dll
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.pdb
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\QuizWebApi.genruntimeconfig.cache
+D:\cloneZuci\QuizWebApi\obj\Debug\net8.0\ref\QuizWebApi.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\appsettings.json
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\QuizWebApi.exe
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\QuizWebApi.deps.json
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\QuizWebApi.runtimeconfig.json
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\QuizWebApi.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\QuizWebApi.pdb
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\FluentAssertions.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Quiz Application\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.AssemblyReference.cache
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfoInputs.cache
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfo.cs
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.CoreCompileInputs.cache
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.sourcelink.json
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.QuizWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.QuizWebApi.props
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuizWebApi.props
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuizWebApi.props
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\scopedcss\bundle\QuizWebApi.styles.css
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.Up2Date
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.dll
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\refint\QuizWebApi.dll
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.pdb
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\QuizWebApi.genruntimeconfig.cache
+D:\Quiz Application\QuizWebApi\obj\Debug\net8.0\ref\QuizWebApi.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\appsettings.json
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.exe
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.deps.json
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.runtimeconfig.json
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.pdb
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\FluentAssertions.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.AssemblyReference.cache
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfoInputs.cache
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfo.cs
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.CoreCompileInputs.cache
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.QuizWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.QuizWebApi.props
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuizWebApi.props
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuizWebApi.props
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\scopedcss\bundle\QuizWebApi.styles.css
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.Up2Date
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.dll
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\refint\QuizWebApi.dll
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.pdb
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.genruntimeconfig.cache
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\ref\QuizWebApi.dll
+D:\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.sourcelink.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\appsettings.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.exe
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.deps.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.runtimeconfig.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\QuizWebApi.pdb
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\FluentAssertions.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.AssemblyReference.cache
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfoInputs.cache
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfo.cs
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.CoreCompileInputs.cache
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.sourcelink.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.QuizWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.QuizWebApi.props
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuizWebApi.props
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuizWebApi.props
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\scopedcss\bundle\QuizWebApi.styles.css
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.Up2Date
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\refint\QuizWebApi.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.pdb
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\QuizWebApi.genruntimeconfig.cache
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\obj\Debug\net8.0\ref\QuizWebApi.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\MySql.Data.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Angular\QuizApp\Quiz_application_Angular\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\appsettings.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\QuizWebApi.exe
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\QuizWebApi.deps.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\QuizWebApi.runtimeconfig.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\QuizWebApi.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\QuizWebApi.pdb
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\FluentAssertions.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\MySql.Data.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.AssemblyReference.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfoInputs.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.AssemblyInfo.cs
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.CoreCompileInputs.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.sourcelink.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.QuizWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.QuizWebApi.props
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuizWebApi.props
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuizWebApi.props
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\scopedcss\bundle\QuizWebApi.styles.css
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.csproj.Up2Date
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\refint\QuizWebApi.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.pdb
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\QuizWebApi.genruntimeconfig.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\QuizWebApi\obj\Debug\net8.0\ref\QuizWebApi.dll

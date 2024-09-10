@@ -1,0 +1,14 @@
+<!-- Dialog box structure -->
+<div class="dialog-overlay">
+    <div class="dialog-content">
+      <form id="editForm" #editForm="ngForm" (ngSubmit)="saveChanges()">
+        <div class="form-group">
+          <label for="topic">Topicname</label>
+          <input type="text" id="topicName" name="topicname" [(ngModel)]="topicDetails.topicName" required>
+        </div>
+        <button type="submit" class="btn btn-primary mx-3">Save Changes</button>
+        <button type="button" class="btn btn-primary " (click)="cancel()">Cancel</button>
+      </form>
+    </div>
+  </div>
+  

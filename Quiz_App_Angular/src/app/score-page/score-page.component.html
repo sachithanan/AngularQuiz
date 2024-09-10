@@ -1,0 +1,35 @@
+<div class="score-container">
+  <div class="center">
+    
+  </div>
+  <div class="logo-container">
+    <img [src]="getScoreImage()" alt="Score Image">
+  </div>
+  <div class="center">
+    <h2>Score: {{ score*20 }}/{{length*20}}</h2>
+  </div>
+ 
+  <div *ngFor="let answer of userAnswers; let i = index">
+    <div class="question-container">
+      <h3>{{ i + 1 }}. {{ answer.question.questionText }}</h3>
+      <div *ngFor="let option of answer.question.options">
+        <label>
+          <input type="radio" [checked]="option.id === answer.selectedOption.id" disabled>
+          <span [ngClass]="{
+            'selected': option.id === answer.selectedOption.id,
+            'correct': answer.isCorrect && option.id === answer.selectedOption.id,
+            'incorrect': !answer.isCorrect && option.id === answer.selectedOption.id
+          }">
+            {{ option.option }}
+          </span>
+        </label>
+      </div>
+      <div class="correct-answer" *ngIf="!answer.isCorrect">
+        Correct Answer: <span>{{ getCorrectAnswer(answer.question.options)?.option }}</span>
+        
+      </div>
+
+    </div>
+  </div>
+  <button class="btn btn-primary" (click)="BackToHome()">Back to Test</button>
+</div>

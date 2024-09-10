@@ -1,0 +1,75 @@
+D:\cloneZuci\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.deps.json
+D:\cloneZuci\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.runtimeconfig.json
+D:\cloneZuci\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\cloneZuci\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.AssemblyReference.cache
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfoInputs.cache
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfo.cs
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.CoreCompileInputs.cache
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.sourcelink.json
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.dll
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\refint\ZuciQuizLibrary.dll
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.genruntimeconfig.cache
+D:\cloneZuci\ZuciQuizLibrary\obj\Debug\net8.0\ref\ZuciQuizLibrary.dll
+D:\Quiz Application\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.deps.json
+D:\Quiz Application\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.runtimeconfig.json
+D:\Quiz Application\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Quiz Application\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.AssemblyReference.cache
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfoInputs.cache
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfo.cs
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.CoreCompileInputs.cache
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.sourcelink.json
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\refint\ZuciQuizLibrary.dll
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.genruntimeconfig.cache
+D:\Quiz Application\ZuciQuizLibrary\obj\Debug\net8.0\ref\ZuciQuizLibrary.dll
+D:\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.deps.json
+D:\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.runtimeconfig.json
+D:\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.AssemblyReference.cache
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfoInputs.cache
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfo.cs
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.CoreCompileInputs.cache
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\refint\ZuciQuizLibrary.dll
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.genruntimeconfig.cache
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ref\ZuciQuizLibrary.dll
+D:\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.sourcelink.json
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.deps.json
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.runtimeconfig.json
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.AssemblyReference.cache
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfoInputs.cache
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfo.cs
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.CoreCompileInputs.cache
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.sourcelink.json
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\refint\ZuciQuizLibrary.dll
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.genruntimeconfig.cache
+D:\Angular\QuizApp\Quiz_application_Angular\ZuciQuizLibrary\obj\Debug\net8.0\ref\ZuciQuizLibrary.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.deps.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.runtimeconfig.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\bin\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.AssemblyReference.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfoInputs.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.AssemblyInfo.cs
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.csproj.CoreCompileInputs.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.sourcelink.json
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\refint\ZuciQuizLibrary.dll
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.pdb
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ZuciQuizLibrary.genruntimeconfig.cache
+D:\Angular practice project\QuizApp\Quiz_App_C#\ZuciQuizLibrary\obj\Debug\net8.0\ref\ZuciQuizLibrary.dll

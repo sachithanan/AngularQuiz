@@ -1,0 +1,41 @@
+.score-container {
+  text-align: left;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  width: 800px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.logo-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.score-details p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.correct {
+  color: #28a745;
+}
+
+.incorrect {
+  color: red;
+}
+
+.selected {
+  font-weight: bold;
+}
+
+.correct-answer {
+  font-style: italic;
+  color: #28a745;
+}
+.center{
+  text-align: center;
+  font-weight: 100;
+}

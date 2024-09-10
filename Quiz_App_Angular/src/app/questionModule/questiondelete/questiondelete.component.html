@@ -1,0 +1,36 @@
+<mat-dialog-content class="dialog-content">
+    <div class="container">
+      <div class="form-group">
+        <label for="topic">Select Topic</label>
+        <select id="topic" class="form-control" [(ngModel)]="selectedTopicId" (change)="onSelectTopic()">
+          <option *ngFor="let topic of topics" [value]="topic.id">{{ topic.topicName }}</option>
+        </select>
+      </div>
+     
+      <div *ngIf="questions && questions.length > 0">
+        <h3>Questions for Selected Topic</h3>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Question Text</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let question of questions">
+              <td>{{ question.questionText }}</td>
+              <td>
+                <button type="button" class="btn btn-danger" (click)="deleteQuestion(question)">Delete</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div *ngIf="!questions || questions.length === 0" class="no-questions">No questions available.</div>
+      <br>
+      <div class="form-group">
+        <button type="button" class="btn btn-secondary" (click)="cancel()">Close</button>
+      </div>
+    </div>
+  </mat-dialog-content>
+  

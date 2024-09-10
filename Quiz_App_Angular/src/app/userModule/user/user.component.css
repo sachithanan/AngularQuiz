@@ -1,0 +1,24 @@
+
+.body{
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+    background-color: rgb(226, 243, 224); 
+    min-height: 100vh;}
+.create{
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+th{
+    background-color: rgb(172, 248, 223);
+    text-align: center;
+}
+.table{
+    width: 60%;
+    margin: 0px auto;
+}
+td{
+    text-align: center;
+}
+
+

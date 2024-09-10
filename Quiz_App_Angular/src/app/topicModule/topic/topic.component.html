@@ -1,0 +1,30 @@
+<div class="body">
+  <div class="create">
+    <a class="btn btn-success" (click)="createNewTopic()">Create New [+]</a>
+  </div>
+  <mat-table class="mat-elevation-z8" mat-table [dataSource]="dataSource">
+    <ng-container matColumnDef="topicName">
+      <mat-header-cell *matHeaderCellDef class="bg-dark text-white"> topicName </mat-header-cell>
+      <mat-cell *matCellDef="let topic"> {{ topic.topicName }} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="options">
+      <mat-header-cell *matHeaderCellDef class="bg-dark text-white"> Options </mat-header-cell>
+      <mat-cell *matCellDef="let topic">
+        <button mat-raised-button color="primary" class="mx-3" (click)="openModal(topic.id)"> Edit </button>
+        <button mat-raised-button color="warn" (click)="closeModal(topic.id)"> Delete </button>
+      </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+  </mat-table>
+  <mat-paginator [pageSizeOptions]="[5, 10, 25]" showFirstLastButtons></mat-paginator>
+  <div class="back">
+    <a class="btn btn-danger" routerLink="/admindashboard"> Back To Home </a>
+  </div>
+</div>
+
+
+
+
+
+

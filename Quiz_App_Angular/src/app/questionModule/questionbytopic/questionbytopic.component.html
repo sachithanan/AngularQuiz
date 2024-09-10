@@ -1,0 +1,28 @@
+<mat-dialog-content class="dialog-content">
+    <div class="container">
+        <div class="form-group">
+            <label for="topic">Select Topic</label>
+            <select id="topic" class="form-control" [(ngModel)]="selectedTopicId" (change)="onSelectTopic()">
+                <option *ngFor="let topic of topics" [value]="topic.id">{{ topic.topicName }}</option>
+            </select>
+        </div>
+
+        <!-- Table to display questions -->
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        
+                        <th>Question Text</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let question of questions">
+                            
+                        <td>{{ question.questionText }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</mat-dialog-content>

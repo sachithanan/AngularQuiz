@@ -1,0 +1,40 @@
+<div class="sidebar">
+  <ul class="nav flex-column">
+    <li *ngIf="isAdmin" class="nav-item">
+      <button class="nav-button" (click)="user()">User</button>
+    </li>
+    <li *ngIf="isAdmin" class="nav-item">
+      <button class="nav-button" (click)="topic()">Topic</button>
+    </li>
+    <li *ngIf="isAdmin" class="nav-item">
+      <div class="btn-group">
+        <button type="button" class="btn btn-danger dropdown-toggle nav-button" data-bs-toggle="dropdown" aria-expanded="false">
+          Questions
+        </button>
+        <ul class="dropdown-menu">
+          <li>
+            <button type="submit" class="dropdown-item nav-button" id="create" (click)="postquestion()">New Question</button>
+          </li>
+          <li>
+            <button type="submit" class="dropdown-item nav-button" id="update" (click)="updatequestion()">Update Question</button>
+          </li>
+          <li>
+            <button type="submit" class="dropdown-item nav-button" id="delete" (click)="deletequestion()">Delete Question</button>
+          </li>
+          <li>
+            <button type="submit" class="dropdown-item nav-button" id="view" (click)="questionbyTopic()">Questions By Topic</button>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li *ngIf="isAdmin" class="nav-item ">
+      <button class="nav-button" (click)="Test()" >Answer</button>
+    </li>
+    <li *ngIf="isAdmin" class="nav-item">
+      <button class="nav-button" (click)="score()">Mark</button>
+    </li>
+    <li *ngIf="!isAdmin" class="nav-item">
+      <button class="nav-button">Score</button>
+    </li>
+  </ul>
+</div>
